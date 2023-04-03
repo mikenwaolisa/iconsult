@@ -1,2 +1,2 @@
-# iconsult
+# IConsult
 BUILDING A SOCIAL MEDIA APP
